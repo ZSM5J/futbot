@@ -1,0 +1,20 @@
+{
+    "database": {
+        "Host": "localhost",
+        "User": "postgres",
+        "Dbname": "postgres",
+        "Password": "postgres"
+    },
+    "domain": {
+        "URL": "http://localhost:4200/"
+    },
+    "app": {
+        "client_id": "5914930",
+        "client_secret": "JYIhfm2nVawVmYqSBa7W",
+        "redirect_uri": "http://localhost:4200/auth"
+    },
+    "group": {
+        "token": "449c941ace6703fd55cfaee6b5863da12ecd29ad56168d842b73809a747bd2987f49a0ad4f3e64ab81178",
+        "id": "152259744"
+    }
+}
